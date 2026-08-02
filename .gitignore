@@ -1,0 +1,19 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+env/
+
+# API密钥
+.env
+
+# 向量数据库
+vectorstore/
+
+# Streamlit缓存
+.streamlit/
+
+# 系统文件
+.DS_Store
